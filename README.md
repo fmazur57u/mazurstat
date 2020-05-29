@@ -1,1 +1,2 @@
 # mazurstat
+Some statistic tools
